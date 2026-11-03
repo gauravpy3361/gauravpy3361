@@ -1,7 +1,7 @@
 # Gaurav Joshi 👋
 
 <p align="left">
-  <b>Undergraduate in Data Science & Applications @ IIT Madras ('28)</b><br>
+  <b>Undergraduate in Data Science & Applications @ IIT Madras ('30)</b><br>
   <i>Focus: Machine Learning Foundations · Scalable Systems · Algorithmic Efficiency</i>
 </p>
 
