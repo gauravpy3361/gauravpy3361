@@ -56,6 +56,3 @@ I label every repository so it's clear what I wrote myself and where I used AI t
 
 ---
 
-<p align="center">
-  <i>"Consistency beats intensity." — thanks for stopping by! ⭐</i>
-</p>
